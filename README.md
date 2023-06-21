@@ -1,4 +1,5 @@
-# todolist
+# ToDoVue
+SPA-приложение на Vue.js с использованием Vuex и Vue-router
 
 ## Project setup
 ```
