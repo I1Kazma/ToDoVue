@@ -3,7 +3,6 @@
     <div id="nav">
       <router-link to="/">Главная</router-link>
       <router-link to="/todos">ToDo-List</router-link>
-      <router-link to="/about">Обо мне</router-link>
     </div>
     <router-view />
   </div>
